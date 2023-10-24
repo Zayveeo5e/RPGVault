@@ -1,0 +1,1 @@
+This race prefers to use [[Test Weapon]] for combat

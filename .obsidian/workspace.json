@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45c9fc223c6eaf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races/Test Race.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Races/Test Race.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Races/Test Race.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md"
+                "file": "Races/Test Race.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,8 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a490c44211c8540",
+  "active": "45c9fc223c6eaf4e",
   "lastOpenFiles": [
-    "ReadMe.md"
+    "Weapons/Test Weapon.md",
+    "Races/Test Race.md",
+    "ReadMe.md",
+    "Weapons",
+    "Races"
   ]
 }
