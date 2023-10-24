@@ -23,12 +23,8 @@
             "id": "45c9fc223c6eaf4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Races/Test Race.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Races/Test Race.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Races/Test Race.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Races/Test Race.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +161,8 @@
   },
   "active": "45c9fc223c6eaf4e",
   "lastOpenFiles": [
-    "Weapons/Test Weapon.md",
     "Races/Test Race.md",
+    "Weapons/Test Weapon.md",
     "Classes/Test Class.md",
     "Classes",
     "ReadMe.md",
