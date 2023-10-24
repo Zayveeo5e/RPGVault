@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c59670423659ca73",
+            "id": "3a490c44211c8540",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "readme.md"
+              }
+            }
+          },
+          {
+            "id": "0cb3bd46fdc620ad",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +154,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c59670423659ca73",
-  "lastOpenFiles": []
+  "active": "3a490c44211c8540",
+  "lastOpenFiles": [
+    "readme.md"
+  ]
 }
